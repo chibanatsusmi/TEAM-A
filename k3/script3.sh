@@ -2,3 +2,4 @@
 
 day=`date "+%d"`
 
+echo $day
